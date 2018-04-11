@@ -1,0 +1,17 @@
+This is a basic overview of what I intend to do.
+
+I will follow the OSEMN(pronounced Awesome) approach:
+O - Obtaining the data is the first approach in solving the problem.
+
+S - Scrubbing or cleaning the data is the next step. This includes data imputation of missing or invalid data, fixing column names adding extra columns, feature scaling.
+
+E - Exploring the data will follow right after and allow further insight of what our dataset contains. Looking for any outliers or weird data. Understanding the relationship each explanatory variable has with the response variable resides here and we can do this with a various visualizations available through matplotlib and seaborn.
+
+M - Modeling the data will give us our predictive power on whether an passenger's survived or not.
+
+N - INterpreting the data is last. With all the results and analysis of the data, what conclusion is made? What factors contributed most to survival rate? What relationship of variables were found?
+
+I will go through the whole process of creating a machine learning model on the famous Titanic dataset, which is used by many people all over the world. It provides information on the fate of passengers on the Titanic, summarized according to economic status (class), sex, age and survival. In this challenge, we are asked to predict whether a passenger on the titanic would have been survived or not.
+
+The RMS Titanic
+RMS Titanic was a British passenger liner that sank in the North Atlantic Ocean in the early morning hours of 15 April 1912, after it collided with an iceberg during its maiden voyage from Southampton to New York City. There were an estimated 2,224 passengers and crew aboard the ship, and more than 1,500 died, making it one of the deadliest commercial peacetime maritime disasters in modern history. The RMS Titanic was the largest ship afloat at the time it entered service and was the second of three Olympic-class ocean liners operated by the White Star Line. The Titanic was built by the Harland and Wolff shipyard in Belfast. Thomas Andrews, her architect, died in the disaster.
